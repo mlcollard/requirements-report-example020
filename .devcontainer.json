@@ -1,0 +1,7 @@
+{
+    "name": "Updated C++ Environment",
+    "image": "mlcollard/checkmd",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    }
+}
